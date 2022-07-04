@@ -8,7 +8,7 @@ on:
     
 defaults:
   run:
-    working-directory: src
+    working-directory: Projeto.Avanade
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: 5.0.x
+        dotnet-version: 6.0.x
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
