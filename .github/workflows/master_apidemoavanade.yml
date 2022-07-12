@@ -8,6 +8,9 @@ on:
     branches:
       - master
   workflow_dispatch:
+defaults:
+  run:
+    working-directory: Projeto.Avanade
 
 jobs:
   build:
