@@ -5457,11 +5457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeto\\Projeto.Avanade\\Projeto.Avanade\\Projeto.Avanade.csproj",
+      "projectUniqueName": "C:\\Projeto\\Projeto.Avanade\\API.Projeto.Carros\\Projeto.Avanade\\Projeto.Avanade\\Projeto.Avanade.csproj",
       "projectName": "Projeto.Avanade",
-      "projectPath": "C:\\Projeto\\Projeto.Avanade\\Projeto.Avanade\\Projeto.Avanade.csproj",
+      "projectPath": "C:\\Projeto\\Projeto.Avanade\\API.Projeto.Carros\\Projeto.Avanade\\Projeto.Avanade\\Projeto.Avanade.csproj",
       "packagesPath": "C:\\Users\\n.gabriel.de.almeida\\.nuget\\packages\\",
-      "outputPath": "C:\\Projeto\\Projeto.Avanade\\Projeto.Avanade\\obj\\",
+      "outputPath": "C:\\Projeto\\Projeto.Avanade\\API.Projeto.Carros\\Projeto.Avanade\\Projeto.Avanade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\n.gabriel.de.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",

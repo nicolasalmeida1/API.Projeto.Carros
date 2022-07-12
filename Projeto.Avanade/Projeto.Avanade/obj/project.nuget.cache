@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T5KM+fuVFOufFVz8O/+gdjnh2IlO9f3mrAktK8km9a6q0gj507CR0VENUZ+V5jeLDGkI04qZIwAZRGdQrv+nAw==",
+  "dgSpecHash": "yOaCpPJGk0rZSV5sU1pGuyz3KMIEnXbAdYJjE7y+T2AuBm/fKEjQ/trAqJTDsV9fpFXpp6E+cr3EOf4A0d0wtQ==",
   "success": true,
-  "projectFilePath": "C:\\Projeto\\Projeto.Avanade\\Projeto.Avanade\\Projeto.Avanade.csproj",
+  "projectFilePath": "C:\\Projeto\\Projeto.Avanade\\API.Projeto.Carros\\Projeto.Avanade\\Projeto.Avanade\\Projeto.Avanade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\n.gabriel.de.almeida\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\n.gabriel.de.almeida\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
